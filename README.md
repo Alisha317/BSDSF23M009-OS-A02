@@ -1,6 +1,6 @@
-# Operating Systems Programming Assignment 2
+﻿# Operating Systems Programming Assignment 2
 
-**Student:** Muhammad Umair
+**Student:** Alisha
 **Roll No:** BSDSF23M009
 **Course:** Operating Systems
 **Instructor:** Muhammad Arif Butt
@@ -23,14 +23,14 @@ This assignment focuses on re-engineering the `ls` utility from scratch in C. Yo
 
 ```
 ROLL_NO-OS-A02/
-├── src/
-│   └── ls-v1.0.0.c
-├── bin/
-├── obj/
-├── man/
-├── Makefile
-├── README.md
-└── REPORT.md
+â”œâ”€â”€ src/
+â”‚   â””â”€â”€ ls-v1.0.0.c
+â”œâ”€â”€ bin/
+â”œâ”€â”€ obj/
+â”œâ”€â”€ man/
+â”œâ”€â”€ Makefile
+â”œâ”€â”€ README.md
+â””â”€â”€ REPORT.md
 ```
 
 ---
@@ -54,7 +54,7 @@ feat: Initial project setup with starter code
 
 ---
 
-# Feature 2: ls-v1.1.0 – Complete Long Listing Format (-l)
+# Feature 2: ls-v1.1.0 â€“ Complete Long Listing Format (-l)
 
 **Tasks Completed:**
 
@@ -90,7 +90,7 @@ Bitwise AND (`&`) with macros like `S_IFDIR`, `S_IRUSR`, etc., extracts type and
 
 ---
 
-# Feature 3: ls-v1.2.0 – Column Display (Down Then Across)
+# Feature 3: ls-v1.2.0 â€“ Column Display (Down Then Across)
 
 **Tasks Completed:**
 
@@ -115,7 +115,7 @@ Bitwise AND (`&`) with macros like `S_IFDIR`, `S_IRUSR`, etc., extracts type and
 
 ---
 
-# Feature 4: ls-v1.3.0 – Horizontal Column Display (-x)
+# Feature 4: ls-v1.3.0 â€“ Horizontal Column Display (-x)
 
 **Tasks Completed:**
 
@@ -138,7 +138,7 @@ Bitwise AND (`&`) with macros like `S_IFDIR`, `S_IRUSR`, etc., extracts type and
 
 ---
 
-# Feature 5: ls-v1.4.0 – Alphabetical Sort
+# Feature 5: ls-v1.4.0 â€“ Alphabetical Sort
 
 **Tasks Completed:**
 
@@ -167,7 +167,7 @@ int cmp(const void *a, const void *b) {
 
 ---
 
-# Feature 6: ls-v1.5.0 – Colorized Output Based on File Type
+# Feature 6: ls-v1.5.0 â€“ Colorized Output Based on File Type
 
 **Tasks Completed:**
 
@@ -197,7 +197,7 @@ int cmp(const void *a, const void *b) {
 
 ---
 
-# Feature 7: ls-v1.6.0 – Recursive Listing (-R)
+# Feature 7: ls-v1.6.0 â€“ Recursive Listing (-R)
 
 **Tasks Completed:**
 
